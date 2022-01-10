@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rodrigotoyoda@outlook.com
+	name = Ayanori Toyoda
